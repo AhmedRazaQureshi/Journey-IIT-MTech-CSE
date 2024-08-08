@@ -1,7 +1,7 @@
 # IIT-MTech-Journey <br>
 A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry along my legacy) <br>
 
-# Sem - 01: <br>
+# Sem - 01: [Link to all resources](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link)<br>
 | Subject | Faculty | Material(s) |
 |----------|----------|----------|
 | Security & Forensics Lab | Dr. Satpathy Sir | [Click me](https://www.drive.google.com/file/d/1R108J3_yxWxUL3eDn3aJdIyZq8Jsmrgu/view?usp=drive_link)   |
