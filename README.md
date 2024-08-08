@@ -12,3 +12,9 @@ A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry al
 | Internet of Things | Dr. Saha Sir | [Click me](https://www.drive.google.com/file/d/15yEZDYIjS1GVsxxjYcRGITvqp58fB9sR/view?usp=drive_link) |
 | Mathematical Foundations of CSE | Dr. Satpathy Sir & Dr. Dogra Sir | [Click me](https://www.drive.google.com/file/d/15yEZDYIjS1GVsxxjYcRGITvqp58fB9sR/view?usp=drive_link) |
 
+If something is left, then checkout this [LINK TO ALL](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link) <br>
+
+# Some useful external links. <br>
+1. [Open Access Library](https://www.library.iitbbs.ac.in/open-access-e-resources.php) <br>
+
+# Repo will keep on updating (hopefully, if God will) so stay tuned ...
