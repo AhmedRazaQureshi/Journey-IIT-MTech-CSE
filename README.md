@@ -1,5 +1,5 @@
 # IIT-MTech-Journey <br>
-All the work I did at my IIT during my masters in CSE (M.Tech-CSE) is documented here. <br>
+A Documented Work Done During Masters In CSE (Juniors, kindly carry along my legacy) <br>
 
 # Sem - 01: <br>
 | Subject | Faculty | Material(s) |
