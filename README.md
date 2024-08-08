@@ -11,5 +11,5 @@ A Documented Work Done During Masters In CSE (Juniors, kindly carry along my leg
 | Computer Systems Lab | Dr. Bera Sir | Data 8 |
 | Machine Learning & Data Analytics | Dr. Nanda Sir | Data 9 |
 | Internet of Things | Dr. Saha Sir | Data 10 |
-| Mathematical Foundations of CSE | Data 11 |
+| Mathematical Foundations of CSE | Dr. Satpathy Sir & Dr. Dogra Sir | Data 11 |
 
