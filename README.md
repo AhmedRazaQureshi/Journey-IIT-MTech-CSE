@@ -1,7 +1,7 @@
 # IIT-MTech-Journey
 All the work I did at my IIT during my masters in CSE (M.Tech-CSE) is documented here. <br>
 
-#Sem #01:
+#Sem - 01:
 | Subject | Faculty | Material(s) |
 |----------|----------|----------|
 | Security & Forensics Lab | Dr. Satpathy Sir | Data 2   |
