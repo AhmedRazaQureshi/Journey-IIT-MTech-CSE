@@ -4,7 +4,7 @@ A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry al
 # Sem - 01: <br>
 | Subject | Faculty | Material(s) |
 |----------|----------|----------|
-| Security & Forensics Lab | Dr. Satpathy Sir | will be updated soon   |
+| Security & Forensics Lab | Dr. Satpathy Sir | [CLick me](https://www.drive.google.com/file/d/1R108J3_yxWxUL3eDn3aJdIyZq8Jsmrgu/view?usp=drive_link)   |
 | Advance Algorithm | Dr. Joy Sir | will be updated soon  |
 | Network & System Security | Dr. Bera Sir | will be updated soon  |
 | Seminar-1 | Dr. Dogra Sir | will be updated soon |
