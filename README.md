@@ -14,6 +14,7 @@ A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry al
 If something is left, then checkout this [LINK TO ALL](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link) <br>
 
 # Some useful external links. <br>
-1. [Open Access Library](https://library.iitbbs.ac.in/open-access-e-resources.php) <br>
+1. [IIT BBS Official Academic Support](https://acadcouncil.webnd-iitbbs.org/main.html)
+2. [Open Access Library](https://library.iitbbs.ac.in/open-access-e-resources.php) <br>
 
 # Repo will keep on updating (hopefully, if God will) so stay tuned ...
