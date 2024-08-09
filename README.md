@@ -5,7 +5,7 @@ A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry al
 | Subject | Faculty | Material(s) |
 |----------|----------|----------|
 | Advance Algorithm | Dr. Joy Sir | [Click me & go-to page no. 18](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=sharing) |
-| Network & System Security | Dr. Bera Sir | [Click me 01]()  [Click me 02]()  [Click me 03]()  [Click me 04]() |
+| Network & System Security | Dr. Bera Sir | [Click me 01](https://drive.google.com/file/d/1dj5y22BZTD1pLNsC8iUr7u4VlqZwqZ2H/view?usp=sharing)  [Click me 02](https://drive.google.com/file/d/1_p8GeKXKgmUwgjJTXcIM8KUQcO4n0X1d/view?usp=sharing)  [Click me 03](https://drive.google.com/file/d/1rinsPl_hhZRPcWhIN5X3eIKFJLV-lG7s/view?usp=drive_link)  [Click me 04](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=drive_link) |
 | Seminar-1 | Dr. Dogra Sir & Dr. Saha Sir | [Click me 01](https://www.canva.com/)  [Click me 02]() [Click me 03]() |
 | Machine Learning & Data Analytics | Dr. Nanda Sir | [Click me 01]() [Click me 02]()|
 | Internet of Things | Dr. Saha Sir | [Click me]() |
