@@ -1,20 +1,39 @@
-# IIT-MTech-Journey <br>
-A Documented Work Done During Masters In CSE at my IIT (Juniors, kindly carry along the legacy) <br>
+# IIT-MTech-CSE-Journey <br>
+Documented work, that I did during my masters in CSE at IIT Bhubaneswar. <br>
+Tip:&nbsp; Don't go by subject name, go by faculty name. <br>
+&nbsp; &nbsp; &nbsp; &nbsp; For example, <br>
+&nbsp; &nbsp; &nbsp; &nbsp; if Dr. Bera sir teaching something then see the Network & System Security notes. <br>
+&nbsp; &nbsp; &nbsp; &nbsp; if Dr. Saha sir teaching something then see the Internet of Things notes. <br>
 
-# Sem - 01: [Link to all resources](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link)<br>
-| Subject | Faculty | Material(s) |
-|----------|----------|----------|
-| Advance Algorithm | Dr. Joy Sir | [Click me & go-to page no. 18](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=sharing) |
-| Network & System Security | Dr. Bera Sir | [Click me 01](https://drive.google.com/file/d/1dj5y22BZTD1pLNsC8iUr7u4VlqZwqZ2H/view?usp=sharing)  [Click me 02](https://drive.google.com/file/d/1_p8GeKXKgmUwgjJTXcIM8KUQcO4n0X1d/view?usp=sharing)  [Click me 03](https://drive.google.com/file/d/1rinsPl_hhZRPcWhIN5X3eIKFJLV-lG7s/view?usp=drive_link)  [Click me 04](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=drive_link) |
-| Seminar-1 | Dr. Dogra Sir & Dr. Saha Sir | [Click me 01](https://drive.google.com/file/d/1OR0Wyo1SllKs3u6KlKip5aB7sGrUxStg/view?usp=sharing)  [Click me 02](https://drive.google.com/file/d/1e-ijxRMcHokx-EGLHlVE9dXFWPWgjBVv/view?usp=sharing) |
-| Machine Learning & Data Analytics | Dr. Nanda Sir | [Click me 01](https://drive.google.com/file/d/1a62JX5ikBnx5u4hF7vHO0NsA55hWJtSt/view?usp=sharing) [Click me 02 GO-To-Page-10](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=sharing)|
-| Internet of Things | Dr. Saha Sir | [Click me Go-to-Page-63](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=drive_link) |
-| Mathematical Foundations of CSE | Dr. Satpathy Sir & Dr. Dogra Sir | [Click me Go-to-Page-80](https://drive.google.com/file/d/1bTA9NyvIQ29l1aqf1XzbqnHhg6jkKjPw/view?usp=drive_link) |
+# [Link to all resources](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link)<br>
+| Subject | Faculty |
+|----------|----------|
+| Advance Algorithm | Dr. Joy Sir |
+| Network & System Security | Dr. Bera Sir |
+| Machine Learning & Data Analytics | Dr. Nanda Sir |
+| Internet of Things | Dr. Saha Sir |
+| Mathematical Foundations of CSE | Dr. Satpathy Sir & Dr. Dogra Sir |
+| -------------------------------------- | -------------------------------------- |
+| Seminar-1 | Dr. Dogra Sir & Dr. Saha Sir |
+| Security & Forensics Lab | Dr. Satpathy Sir |
+| Computer Systems Lab-1 | Dr. Bera Sir |
+| -------------------------------------- | -------------------------------------- |
+| Software Engineering | Dr. Pinishetty Sir |
+| Cloud Computing | Dr. Sahoo Sir |
+| High Performance Computer Architecture | Dr. Nanda Sir |
+| NLP | Dr. Jana Sir |
+| MMS | Dr. Dogra Sir |
+| -------------------------------------- | -------------------------------------- |
+| Seminar-2 | Dr. Dogra Sir |
+| Computer Systems Lab-2 | Dr. Joy Sir |
+| -------------------------------------- | -------------------------------------- |
+| MTP (Sem-3) | Dr. Dogra Sir |
+| MTP (Sem-4) | Dr. Dogra Sir |
+| -------------------------------------- | -------------------------------------- |
 
-If something is left, then checkout this [LINK TO ALL](https://www.drive.google.com/drive/folders/1u9bjwf7Ro3N-QqNUatM37k_MzNhcQlb-?usp=drive_link) <br>
+
 
 # Some useful external links. <br>
-1. [IIT BBS Official Academic Support](https://acadcouncil.webnd-iitbbs.org/main.html)
-2. [Open Access Library](https://library.iitbbs.ac.in/open-access-e-resources.php) <br>
+1. [Open Access Library](https://library.iitbbs.ac.in/open-access-e-resources.php) <br>
 
-# Repo will keep on updating (hopefully, if God will) so stay tuned ...
+# Repo will keep on updating (hopefully, God will) so stay tuned ...
